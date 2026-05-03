@@ -5,7 +5,7 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="(https://www.linkedin.com/in/adarsh-thakur-74ab3a243/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/adarsh-thakur-74ab3a243/]" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
