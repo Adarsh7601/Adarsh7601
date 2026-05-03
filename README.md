@@ -82,10 +82,10 @@
 ## 📊 Github Analytics
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackerX-Sam&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hackerX-Sam&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh7601&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adarsh7601&theme=tokyonight" height="180"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackerX-Sam&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh7601&theme=tokyonight"/>
 </p>
