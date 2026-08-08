@@ -1,7 +1,7 @@
 ## Connect With Me:
 
 <p>
-  <a href="https://twitter.com/samiran95966149" target="_blank">
+  <a href="https://x.com/AdarshT78825991" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40"/>
   </a>
   &nbsp;&nbsp;
