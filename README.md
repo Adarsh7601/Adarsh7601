@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_sami_ran_47" target="_blank">
+  <a href="https://www.instagram.com/adarsh_thakur7601/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
 </p>
