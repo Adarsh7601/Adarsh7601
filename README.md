@@ -9,7 +9,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hackerX-Sam" target="_blank">
+  <a href="https://github.com/Adarsh7601" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
   </a>
   &nbsp;&nbsp;
